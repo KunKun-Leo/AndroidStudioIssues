@@ -24,6 +24,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "bluetooth"
+rootProject.name = "projectname"
 include ':app'
 ```
